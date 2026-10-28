@@ -48,6 +48,6 @@ public:
 };
 int main()
 {
-    Rectanglee rct1;
-    rct1.ShowFigure();
+    //Rectanglee rct1;
+    //rct1.ShowFigure();
 }
